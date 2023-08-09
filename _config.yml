@@ -23,6 +23,7 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
+repository: UnnamedNewbie/minimalmistakestest
 
 # Build settings
 markdown: kramdown
@@ -79,6 +80,7 @@ defaults:
       comments: true
       share: true
       related: true
+      comments: true
   # _pages
   - scope:
       path: "_pages"
