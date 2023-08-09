@@ -74,7 +74,7 @@ comments:
     category_name        : "Announcements" # Full text name of the category
     category_id          : "DIC_kwDOKFS37M4CYfcF" # Shown during giscus setup at https://giscus.app
     discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : '1 # '1' for enabled (default), '0' for disabled
+    reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
     theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
 
 defaults:
