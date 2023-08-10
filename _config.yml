@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 repository: ademeure/ademeure.github.io
 
@@ -75,7 +75,7 @@ comments:
     category_id          : "DIC_kwDOKFS37M4CYfcF" # Shown during giscus setup at https://giscus.app
     discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
-    theme                : "light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+    theme                : "dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
 
 defaults:
   # _posts
