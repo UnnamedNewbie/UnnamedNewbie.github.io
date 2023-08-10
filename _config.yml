@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "BeyondGPU"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ultra-low-level microarchitecture analysis of GPU & AI hardware architectures by a former GPU architect."
+  bio    : "Ultra-low-level microarchitectural analysis of GPU & AI hardware architectures by a former GPU architect."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
